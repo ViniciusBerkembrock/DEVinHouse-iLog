@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8b9c787-5667-4573-93e1-b438e25a00db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DEVgram/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DEVgram/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVgram/src/main/java/tech/devinhouse/devgram/DeVgramApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DEVgram/src/main/java/tech/devinhouse/devgram/DeVgramApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVgram/src/main/java/tech/devinhouse/devgram/controller/PerfilController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DEVgram/src/main/java/tech/devinhouse/devgram/controller/PerfilController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVgram/src/main/java/tech/devinhouse/devgram/service/PerfilService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DEVgram/src/main/java/tech/devinhouse/devgram/service/PerfilService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IAdoasx93tfZtMYfrF2Zr6zZd1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/berke/Documents/Vinicius/DEVinHouse-iLog/M01S10/M01S10-CopaDoMundo",
+    "spring.configuration.checksum": "0c9287aa374aa325cdf171b044ed962d"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M10S01CopaDoMundoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="M10S01-CopaDoMundo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tech.devinhouse.m10s01copadomundo.M10S01CopaDoMundoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8b9c787-5667-4573-93e1-b438e25a00db" name="Changes" comment="" />
+      <created>1669628497337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669628497337</updated>
+      <workItem from="1669628498467" duration="748000" />
+      <workItem from="1669648844859" duration="4000" />
+      <workItem from="1669648855221" duration="4000" />
+      <workItem from="1670882180411" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

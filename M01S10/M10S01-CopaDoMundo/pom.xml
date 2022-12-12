@@ -5,20 +5,18 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.7.5</version>
+        <version>3.0.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>tech.devinhouse</groupId>
-    <artifactId>DEVgram</artifactId>
+    <artifactId>M10S01-CopaDoMundo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>DEVgram</name>
-    <description>DEVgram</description>
+    <name>M10S01-CopaDoMundo</name>
+    <description>M10S01-CopaDoMundo</description>
     <properties>
         <java.version>17</java.version>
     </properties>
     <dependencies>
-
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -41,11 +39,6 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
-        </dependency>
-        <dependency>
-            <groupId>org.modelmapper</groupId>
-            <artifactId>modelmapper</artifactId>
-            <version>3.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
