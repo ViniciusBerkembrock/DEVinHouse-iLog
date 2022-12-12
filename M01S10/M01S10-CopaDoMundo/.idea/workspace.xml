@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fa8e856c-2fd6-4375-b1e0-9c97d0393879" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -44,6 +43,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2IpczMqXDOueAlrRkFTOBdXCVbr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +53,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/berke/Documents/Vinicius/DEVinHouse-iLog/M01S10/m01s10-api-ex"
+    "last_opened_file_path": "C:/Users/berke/Documents/Vinicius/DEVinHouse-iLog/M01S10/M01S10-CopaDoMundo",
+    "spring.configuration.checksum": "0c9287aa374aa325cdf171b044ed962d"
   }
 }]]></component>
   <component name="RunManager">
@@ -87,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670882226828</updated>
       <workItem from="1670882227999" duration="226000" />
+      <workItem from="1670882703891" duration="102000" />
     </task>
     <servers />
   </component>
